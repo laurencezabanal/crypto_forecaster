@@ -4,3 +4,7 @@ pandas
 numpy
 Pillow
 matplotlib
+tqdm
+os
+datetime
+python-dateutil
